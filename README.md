@@ -184,7 +184,7 @@
             Hold styr på kunder, opgaver og meget mere – samlet ét sted.
         </p>
 
-        <a class="download" href="VinduespudserApp.exe" download>
+        <a class="download" href="Ruden.exe" download>
             ⬇️ Download Ruden
         </a>
 
