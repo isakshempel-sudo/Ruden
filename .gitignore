@@ -1,0 +1,15 @@
+# Local Java/build files
+out/
+openJdk-26/
+oracleJdk-26/
+build/*
+!build/Ruden.zip
+*.class
+vinduespudser.dat
+vinduespudser.lang
+
+# Local website server output
+WebsiteServer.java
+start-website.ps1
+
+# Keep only the public Windows download archive
