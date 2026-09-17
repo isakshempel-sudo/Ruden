@@ -4,6 +4,8 @@ openJdk-26/
 oracleJdk-26/
 build/*
 !build/Ruden.zip
+!build/installer/
+!build/installer/Ruden-1.0.exe
 *.class
 vinduespudser.dat
 vinduespudser.lang
